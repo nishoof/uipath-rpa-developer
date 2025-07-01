@@ -1,0 +1,2 @@
+# Don't let Git modify line endings for any files
+* -text
