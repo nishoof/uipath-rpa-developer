@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="H8H0oR1PPkuPDjm52sOevA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/0" DesignTimeRectangle="357, 306, 27, 25" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='bsU' parentid=':r1' tag='DIV' type='' /&gt;" Guid="3b57328a-24c3-4f1c-9974-a0d0a441ddb2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Inbox (1) - nanand5@dons.usfca.edu - Students &amp;amp; Alumni DonsApps Mail' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8fcc0fb0-456c-4af3-84af-d352d2432038" CvTextArea="171, 309, 53, 17" CvTextArgument="Inbox" CvType="Text" DesignTimeRectangle="109, 298, 290, 40" FuzzySelectorArgument="&lt;webctrl parentid=':r1' tag='DIV' type='' class='TN bzz aHS-bnt' aaname='' check:innerText='Inbox&amp;#xA;1' /&gt;" Guid="f3eecbd2-40a0-4341-884d-10a7e0c1262b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e1e81fbd79f8db71e80aee39be5310b5.png" xmlns="">0V_uVPQSYGkOfOhNPB-Jfdg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Inbox - nanand5@dons.usfca.edu - Students & Alumni DonsApps Mail",
+  "Type": "App",
+  "Id": "KtM7mx4HtkGBic5r0X93Eg",
+  "Reference": "9hv8JB9rQ0Wgwln--tqc0g/KtM7mx4HtkGBic5r0X93Eg",
+  "Created": "2025-07-02T18:52:32.5778386Z",
+  "Updated": "2025-07-02T18:52:32.5778386Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

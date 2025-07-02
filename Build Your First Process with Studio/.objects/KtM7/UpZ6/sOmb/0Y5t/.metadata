@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Inbox1",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "0Y5tBIrgrU6QGzwew3YS5A",
+  "Reference": "9hv8JB9rQ0Wgwln--tqc0g/0Y5tBIrgrU6QGzwew3YS5A",
+  "ParentRef": "9hv8JB9rQ0Wgwln--tqc0g/sOmbYR4oYkuOhhkeUkMAlQ",
+  "Created": "2025-07-02T18:54:14.511857Z",
+  "Updated": "2025-07-02T18:54:14.511857Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nj-6lC7jP0G0JKoqJiP3AQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/0" DesignTimeRectangle="962, 278, 8, 18" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='ts' type='' tag='SPAN' /&gt;" Guid="347907a5-432a-4ff3-a574-5b501f044521" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Inbox (3) - nanand5@dons.usfca.edu - Students &amp;amp; Alumni DonsApps Mail' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5d283860-795b-4028-9a85-9e87d7640ee0" CvTextArea="945, 279, 43, 15" CvTextArgument="1-3 of" CvType="Text" DesignTimeRectangle="945, 278, 43, 16" FuzzySelectorArgument="&lt;webctrl class='Dj' tag='SPAN' type='' aaname=' of ' check:innerText='1–3 of 3' /&gt;" Guid="cd3a533f-0743-4aa2-bb85-a301fb9c2542" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="904aeadc95e7c0be3a1cd0c7e769658f.png" xmlns="">0t0DoPM_i4UyUCXPmMH1T1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

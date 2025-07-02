@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Inbox - nanand5@dons.usfca.edu - Stude",
+  "Type": "Screen",
+  "Id": "sOmbYR4oYkuOhhkeUkMAlQ",
+  "Reference": "9hv8JB9rQ0Wgwln--tqc0g/sOmbYR4oYkuOhhkeUkMAlQ",
+  "ParentRef": "9hv8JB9rQ0Wgwln--tqc0g/UpZ6tjExf0WMpAKQko1TnQ",
+  "Created": "2025-07-02T18:52:32.6480664Z",
+  "Updated": "2025-07-02T18:52:32.6480664Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
